@@ -12,6 +12,8 @@ class NewPage extends StatefulWidget {
 class _NewPageState extends State<NewPage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      body: Container(),
+    );
   }
 }
